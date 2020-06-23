@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-dal-module" />
+        <module name="springboot-web-module" />
+        <module name="springboot-utils-module" />
+        <module name="springboot-service-module" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-dal-module" options="-parameters" />
+      <module name="springboot-service-module" options="-parameters" />
+      <module name="springboot-utils-module" options="-parameters" />
+      <module name="springboot-web-module" options="-parameters" />
+    </option>
+  </component>
+</project>

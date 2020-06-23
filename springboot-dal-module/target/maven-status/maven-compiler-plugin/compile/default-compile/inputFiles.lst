@@ -1,0 +1,11 @@
+/Users/zhuyunlong/Documents/work/gmcf/springboot-module/springboot-dal-module/src/main/java/com/springboot/demo/dao/PermissionEntityMapper.java
+/Users/zhuyunlong/Documents/work/gmcf/springboot-module/springboot-dal-module/src/main/java/com/springboot/demo/dao/UserEntityMapper.java
+/Users/zhuyunlong/Documents/work/gmcf/springboot-module/springboot-dal-module/src/main/java/com/springboot/demo/dao/RolePermissionEntityMapper.java
+/Users/zhuyunlong/Documents/work/gmcf/springboot-module/springboot-dal-module/src/main/java/com/springboot/demo/model/UserRoleEntity.java
+/Users/zhuyunlong/Documents/work/gmcf/springboot-module/springboot-dal-module/src/main/java/com/springboot/demo/model/PermissionEntity.java
+/Users/zhuyunlong/Documents/work/gmcf/springboot-module/springboot-dal-module/src/main/java/com/springboot/demo/dao/UserRoleEntityMapper.java
+/Users/zhuyunlong/Documents/work/gmcf/springboot-module/springboot-dal-module/src/main/java/com/springboot/demo/model/RoleEntity.java
+/Users/zhuyunlong/Documents/work/gmcf/springboot-module/springboot-dal-module/src/main/java/com/springboot/demo/model/RolePermissionEntity.java
+/Users/zhuyunlong/Documents/work/gmcf/springboot-module/springboot-dal-module/src/main/java/com/springboot/demo/model/UserEntity.java
+/Users/zhuyunlong/Documents/work/gmcf/springboot-module/springboot-dal-module/src/main/java/com/springboot/demo/dao/RoleEntityMapper.java
+/Users/zhuyunlong/Documents/work/gmcf/springboot-module/springboot-dal-module/src/main/java/com/springboot/demo/mapper/UserMapper.java

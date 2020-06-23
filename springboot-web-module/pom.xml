@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>springboot-module</artifactId>
+        <groupId>com.springboot.demo</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>springboot-web-module</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.springboot.demo</groupId>
+            <artifactId>springboot-dal-module</artifactId>
+            <version>${springboot.dal.module.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.springboot.demo</groupId>
+            <artifactId>springboot-utils-module</artifactId>
+            <version>${springboot.utils.module.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.springboot.demo</groupId>
+            <artifactId>springboot-service-module</artifactId>
+            <version>${springboot.service.module.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+            <version>2.2.6.RELEASE</version>
+        </dependency>
+        <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-test</artifactId>
+        </dependency>
+
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

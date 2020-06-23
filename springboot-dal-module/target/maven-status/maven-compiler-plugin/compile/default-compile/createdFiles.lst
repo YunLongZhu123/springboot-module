@@ -1,0 +1,11 @@
+com/springboot/demo/model/RoleEntity.class
+com/springboot/demo/model/UserEntity.class
+com/springboot/demo/dao/UserRoleEntityMapper.class
+com/springboot/demo/dao/RoleEntityMapper.class
+com/springboot/demo/model/PermissionEntity.class
+com/springboot/demo/dao/PermissionEntityMapper.class
+com/springboot/demo/model/UserRoleEntity.class
+com/springboot/demo/mapper/UserMapper.class
+com/springboot/demo/dao/RolePermissionEntityMapper.class
+com/springboot/demo/dao/UserEntityMapper.class
+com/springboot/demo/model/RolePermissionEntity.class
